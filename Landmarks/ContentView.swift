@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SwiftUIExaple
-//
-//  Created by Роман Бойко on 27.08.2023.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -13,7 +6,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello!")
         }
         .padding()
     }
